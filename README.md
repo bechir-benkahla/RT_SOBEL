@@ -10,6 +10,17 @@ Hardware implementation of an edge detection algorithm (Sobel)
 
 link : https://pdfs.semanticscholar.org/db01/7af04855f71d5dccd0980eb5e3e37083474c.pdf
 
+For reading an writting PGM images we used the library provided by Mr Martin Thoompson available at the following a address :
+https://github.com/nkkav/image_processing_examples
+
+The General architecture is described by the folloing figure : 
+
+![alt text](https://github.com/bechir-benkahla/RT_SOBEL/blob/master/img/arch_glob.jpg)
+
+
+
+
+
 project files tree : 
 
 -->src : vhdl source files directory
